@@ -3,3 +3,4 @@ Esto tal vez cambie.
 Esto generara un conflicto.
 Este cambio va a estar en el stash
 
+Estos son los cambios del commit
