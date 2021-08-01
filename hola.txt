@@ -7,3 +7,7 @@ Este cambio va a estar en el stash
 Aun faltan estos cambios para salir con ammend
 Estos son los cambios del commit
 Estos cambios se hicieron con el comando amend
+
+
+Este texto es el cambio
+Este cambio se va a ver reflejado en el segundo ammend
